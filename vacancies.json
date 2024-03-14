@@ -1,0 +1,794 @@
+[
+    {
+        "vacancy_title": "Системный администратор",
+        "town": "Ташкент",
+        "salary_from": 7000000,
+        "salary_to": 8000000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94487058"
+    },
+    {
+        "vacancy_title": "Системный администратор",
+        "town": "Алматы",
+        "salary_from": 390000,
+        "salary_to": 470000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93834404"
+    },
+    {
+        "vacancy_title": "Помощник системного администратора",
+        "town": "Павлодар",
+        "salary_from": 300000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94733576"
+    },
+    {
+        "vacancy_title": "Системный администратор",
+        "town": "Усть-Каменогорск",
+        "salary_from": 300000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94660500"
+    },
+    {
+        "vacancy_title": "Системный администратор",
+        "town": "Астана",
+        "salary_from": 300000,
+        "salary_to": 300000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94456047"
+    },
+    {
+        "vacancy_title": "Системный администратор",
+        "town": "Шымкент",
+        "salary_from": 250000,
+        "salary_to": 350000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94498574"
+    },
+    {
+        "vacancy_title": "Системный администратор",
+        "town": "Астана",
+        "salary_from": 250000,
+        "salary_to": 500000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94604359"
+    },
+    {
+        "vacancy_title": "Системный администратор на полдня в офис",
+        "town": "Алматы",
+        "salary_from": 200000,
+        "salary_to": 250000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94378115"
+    },
+    {
+        "vacancy_title": "Системный администратор",
+        "town": "Актобе",
+        "salary_from": 200000,
+        "salary_to": 200000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94655846"
+    },
+    {
+        "vacancy_title": "Техник (установщик программного обеспечения)",
+        "town": "Алматы",
+        "salary_from": 200000,
+        "salary_to": 270000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93291778"
+    },
+    {
+        "vacancy_title": "Системный администратор",
+        "town": "Москва",
+        "salary_from": 193120,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94626857"
+    },
+    {
+        "vacancy_title": "Системный администратор",
+        "town": "Мирный (Республика Саха (Якутия))",
+        "salary_from": 170300,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94737404"
+    },
+    {
+        "vacancy_title": "Системный администратор",
+        "town": "Красноярск",
+        "salary_from": 160000,
+        "salary_to": 240000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94730762"
+    },
+    {
+        "vacancy_title": "Системный администратор",
+        "town": "Москва",
+        "salary_from": 160000,
+        "salary_to": 180000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/92844393"
+    },
+    {
+        "vacancy_title": "Системный администратор",
+        "town": "Томск",
+        "salary_from": 160000,
+        "salary_to": 240000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94730766"
+    },
+    {
+        "vacancy_title": "Системный администратор",
+        "town": "Чита",
+        "salary_from": 160000,
+        "salary_to": 240000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94730765"
+    },
+    {
+        "vacancy_title": "Системный администратор",
+        "town": "Барнаул",
+        "salary_from": 160000,
+        "salary_to": 240000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94730767"
+    },
+    {
+        "vacancy_title": "Системный администратор",
+        "town": "Улан-Удэ",
+        "salary_from": 160000,
+        "salary_to": 240000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94730764"
+    },
+    {
+        "vacancy_title": "Системный администратор",
+        "town": "Кемерово",
+        "salary_from": 150000,
+        "salary_to": 250000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94313705"
+    },
+    {
+        "vacancy_title": "Системный администратор",
+        "town": "Санкт-Петербург",
+        "salary_from": 150000,
+        "salary_to": 150000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94704033"
+    },
+    {
+        "vacancy_title": "Старший системный администратор",
+        "town": "Самара",
+        "salary_from": 120000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94680513"
+    },
+    {
+        "vacancy_title": "Старший системный администратор",
+        "town": "Липецк",
+        "salary_from": 120000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94680512"
+    },
+    {
+        "vacancy_title": "Системный администратор",
+        "town": "Санкт-Петербург",
+        "salary_from": 120000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94266128"
+    },
+    {
+        "vacancy_title": "Системный администратор (удаленно)",
+        "town": "Москва",
+        "salary_from": 110000,
+        "salary_to": 130000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94538245"
+    },
+    {
+        "vacancy_title": "Системный администратор",
+        "town": "Москва",
+        "salary_from": 110000,
+        "salary_to": 180000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94610840"
+    },
+    {
+        "vacancy_title": "Младший системный администратор",
+        "town": "Москва",
+        "salary_from": 100000,
+        "salary_to": 110000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94536367"
+    },
+    {
+        "vacancy_title": "Системный администратор в офис",
+        "town": "Санкт-Петербург",
+        "salary_from": 100000,
+        "salary_to": 125000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94509391"
+    },
+    {
+        "vacancy_title": "Системный администратор",
+        "town": "Бишкек",
+        "salary_from": 100000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94591961"
+    },
+    {
+        "vacancy_title": "Помощник системного администратора (стажер)",
+        "town": "Алматы",
+        "salary_from": 100000,
+        "salary_to": null,
+        "employment": "Стажировка",
+        "url": "https://hh.ru/vacancy/93453576"
+    },
+    {
+        "vacancy_title": "Инженер в IT-компанию",
+        "town": "Москва",
+        "salary_from": 100000,
+        "salary_to": 130000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94457773"
+    },
+    {
+        "vacancy_title": "Системный администратор",
+        "town": "Москва",
+        "salary_from": 100000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94409234"
+    },
+    {
+        "vacancy_title": "Помощник системного администратора",
+        "town": "Москва",
+        "salary_from": 100000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94619322"
+    },
+    {
+        "vacancy_title": "Системный администратор Windows",
+        "town": "Москва",
+        "salary_from": 100000,
+        "salary_to": 130000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93159893"
+    },
+    {
+        "vacancy_title": "Системный администратор",
+        "town": "Липецк",
+        "salary_from": 90000,
+        "salary_to": 100000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94551286"
+    },
+    {
+        "vacancy_title": "Системный администратор (удаленно)",
+        "town": "Воронеж",
+        "salary_from": 90000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94544551"
+    },
+    {
+        "vacancy_title": "Специалист технической поддержки",
+        "town": "Москва",
+        "salary_from": 90000,
+        "salary_to": 110000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94721769"
+    },
+    {
+        "vacancy_title": "Системный администратор",
+        "town": "Казань",
+        "salary_from": 90000,
+        "salary_to": 90000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94485537"
+    },
+    {
+        "vacancy_title": "Системный администратор",
+        "town": "Тверь",
+        "salary_from": 85000,
+        "salary_to": 85000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94693177"
+    },
+    {
+        "vacancy_title": "Системный администратор",
+        "town": "Казань",
+        "salary_from": 80000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94600082"
+    },
+    {
+        "vacancy_title": "Помощник системного администратора",
+        "town": "Санкт-Петербург",
+        "salary_from": 80000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94512588"
+    },
+    {
+        "vacancy_title": "Системный администратор",
+        "town": "Самара",
+        "salary_from": 80000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94481305"
+    },
+    {
+        "vacancy_title": "Системный администратор",
+        "town": "Ижевск",
+        "salary_from": 80000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94398649"
+    },
+    {
+        "vacancy_title": "Помощник системного администратора",
+        "town": "Москва",
+        "salary_from": 80000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/90453424"
+    },
+    {
+        "vacancy_title": "Системный администратор",
+        "town": "Москва",
+        "salary_from": 80000,
+        "salary_to": 80000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94533059"
+    },
+    {
+        "vacancy_title": "Системный администратор Windows",
+        "town": "Екатеринбург",
+        "salary_from": 80000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94586300"
+    },
+    {
+        "vacancy_title": "Системный администратор",
+        "town": "Иркутск",
+        "salary_from": 75000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94567080"
+    },
+    {
+        "vacancy_title": "Офис-менеджер",
+        "town": "Москва",
+        "salary_from": 75000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/92695096"
+    },
+    {
+        "vacancy_title": "Системный администратор",
+        "town": "Красноярск",
+        "salary_from": 70000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94729239"
+    },
+    {
+        "vacancy_title": "Младший системный администратор",
+        "town": "Москва",
+        "salary_from": 65000,
+        "salary_to": 65000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93875039"
+    },
+    {
+        "vacancy_title": "Системный администратор",
+        "town": "Сыктывкар",
+        "salary_from": 65000,
+        "salary_to": 80000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94584927"
+    },
+    {
+        "vacancy_title": "Ведущий специалист по технической поддержке (системный администратор)",
+        "town": "Чебоксары",
+        "salary_from": 60150,
+        "salary_to": 64500,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94669297"
+    },
+    {
+        "vacancy_title": "Системный администратор",
+        "town": "Самара",
+        "salary_from": 60000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94591383"
+    },
+    {
+        "vacancy_title": "Администратор медицинского центра",
+        "town": "Екатеринбург",
+        "salary_from": 60000,
+        "salary_to": 80000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94197645"
+    },
+    {
+        "vacancy_title": "Стажер IT отдела/IT специалист",
+        "town": "Москва",
+        "salary_from": 60000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94195665"
+    },
+    {
+        "vacancy_title": "Системный администратор (РЦ X5 Group)",
+        "town": "Екатеринбург",
+        "salary_from": 55000,
+        "salary_to": 60000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93082057"
+    },
+    {
+        "vacancy_title": "Системный администратор",
+        "town": "Калуга",
+        "salary_from": 52500,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94697401"
+    },
+    {
+        "vacancy_title": "Системный администратор (удаленно)",
+        "town": "Москва",
+        "salary_from": 50000,
+        "salary_to": 150000,
+        "employment": "Частичная занятость",
+        "url": "https://hh.ru/vacancy/94675354"
+    },
+    {
+        "vacancy_title": "Помощник системного администратора (удаленно)",
+        "town": "Краснодар",
+        "salary_from": 50000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94610463"
+    },
+    {
+        "vacancy_title": "Frontend-разработчик",
+        "town": "Казань",
+        "salary_from": 50000,
+        "salary_to": 100000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93795694"
+    },
+    {
+        "vacancy_title": "Системный администратор",
+        "town": "Москва",
+        "salary_from": 50000,
+        "salary_to": 80000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94547152"
+    },
+    {
+        "vacancy_title": "Системный администратор",
+        "town": "Владимир",
+        "salary_from": 50000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94672117"
+    },
+    {
+        "vacancy_title": "Системный администратор",
+        "town": "Санкт-Петербург",
+        "salary_from": 50000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94330750"
+    },
+    {
+        "vacancy_title": "Системный администратор",
+        "town": "Самара",
+        "salary_from": 49000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94745809"
+    },
+    {
+        "vacancy_title": "Системный администратор",
+        "town": "Иваново (Ивановская область)",
+        "salary_from": 45000,
+        "salary_to": 60000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94670275"
+    },
+    {
+        "vacancy_title": "Системный администратор",
+        "town": "Барнаул",
+        "salary_from": 45000,
+        "salary_to": 45000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94551491"
+    },
+    {
+        "vacancy_title": "Начинающий системный администратор",
+        "town": "Тюмень",
+        "salary_from": 45000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94391574"
+    },
+    {
+        "vacancy_title": "Младший системный администратор",
+        "town": "Санкт-Петербург",
+        "salary_from": 40000,
+        "salary_to": 60000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93211970"
+    },
+    {
+        "vacancy_title": "Системный администратор",
+        "town": "Оренбург",
+        "salary_from": 40000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94632893"
+    },
+    {
+        "vacancy_title": "Младший системный администратор",
+        "town": "Москва",
+        "salary_from": 40000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94366753"
+    },
+    {
+        "vacancy_title": "Системный Администратор Windows в ИТ компанию",
+        "town": "Бишкек",
+        "salary_from": 30000,
+        "salary_to": 70000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94714422"
+    },
+    {
+        "vacancy_title": "Помощник системного администратора",
+        "town": "Иркутск",
+        "salary_from": 25000,
+        "salary_to": 30000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94726422"
+    },
+    {
+        "vacancy_title": "Linux System Administrator (Системный администратор Linux)",
+        "town": "Москва",
+        "salary_from": 2500,
+        "salary_to": 4000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94439694"
+    },
+    {
+        "vacancy_title": "Инженер-администратор телекоммуникационных систем / Системный администратор",
+        "town": "Минск",
+        "salary_from": 2100,
+        "salary_to": 2400,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94598667"
+    },
+    {
+        "vacancy_title": "Тестировщик ПО",
+        "town": "Минск",
+        "salary_from": 1800,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94756816"
+    },
+    {
+        "vacancy_title": "Администратор сетей (администратор системный)",
+        "town": "Гомель",
+        "salary_from": 1700,
+        "salary_to": 2000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94541655"
+    },
+    {
+        "vacancy_title": "Системный администратор",
+        "town": "Минск",
+        "salary_from": 1600,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94753460"
+    },
+    {
+        "vacancy_title": "Системный администратор / специалист IT-отдела",
+        "town": "Минск",
+        "salary_from": 1500,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94720672"
+    },
+    {
+        "vacancy_title": "Helpdesk Specialist",
+        "town": "Минск",
+        "salary_from": 520,
+        "salary_to": 1300,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94442628"
+    },
+    {
+        "vacancy_title": "Системный администратор",
+        "town": "Алматы",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94729709"
+    },
+    {
+        "vacancy_title": "Системный администратор",
+        "town": "Алматы",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94743313"
+    },
+    {
+        "vacancy_title": "Системный администратор (Serbia)",
+        "town": "Москва",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94254908"
+    },
+    {
+        "vacancy_title": "Специалист технической поддержки",
+        "town": "Санкт-Петербург",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93822239"
+    },
+    {
+        "vacancy_title": "IT-специалист (helpdesk) / Системный администратор",
+        "town": "Шымкент",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94687072"
+    },
+    {
+        "vacancy_title": "Системный администратор",
+        "town": "Уфа",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94681684"
+    },
+    {
+        "vacancy_title": "Системный администратор",
+        "town": "Ставрополь",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93470716"
+    },
+    {
+        "vacancy_title": "Системный администратор (ИТ компания)",
+        "town": "Москва",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/92271867"
+    },
+    {
+        "vacancy_title": "Системный администратор",
+        "town": "Ташкент",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94729268"
+    },
+    {
+        "vacancy_title": "CTO in Fintech Startup - Chief Techonology Officer in Saudi Arabia (Ryaid City)",
+        "town": "Королевство Саудовская Аравия",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94622545"
+    },
+    {
+        "vacancy_title": "Помощник системного администратора",
+        "town": "Самара",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94665499"
+    },
+    {
+        "vacancy_title": "Аналитик данных / системный администратор",
+        "town": "Алматы",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93209034"
+    },
+    {
+        "vacancy_title": "Системный администратор",
+        "town": "Москва",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93785453"
+    },
+    {
+        "vacancy_title": "Bureau IT Technician, Astana",
+        "town": "Астана",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Частичная занятость",
+        "url": "https://hh.ru/vacancy/94661234"
+    },
+    {
+        "vacancy_title": "Системный администратор",
+        "town": "Курск",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Частичная занятость",
+        "url": "https://hh.ru/vacancy/94695625"
+    },
+    {
+        "vacancy_title": "Системный администратор",
+        "town": "Москва",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94609285"
+    },
+    {
+        "vacancy_title": "Администратор офиса",
+        "town": "Минск",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94758707"
+    },
+    {
+        "vacancy_title": "Системный администратор HelpDesk",
+        "town": "Москва",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94052183"
+    },
+    {
+        "vacancy_title": "Middle backend Python",
+        "town": "Москва",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94525478"
+    },
+    {
+        "vacancy_title": "Системный администратор",
+        "town": "Минск",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Проектная работа",
+        "url": "https://hh.ru/vacancy/94586001"
+    },
+    {
+        "vacancy_title": "Системный администратор",
+        "town": "Термез",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94545204"
+    }
+]
